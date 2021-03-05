@@ -1,26 +1,10 @@
 # 딥러닝을 활용한 얼굴 인식 및 필터 적용
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
-
 ![](../header.png)
 
 ## 설치 방법
 
-OS X & 리눅스:
-
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
+OpenCV:
 
 ## 사용 예제
 
